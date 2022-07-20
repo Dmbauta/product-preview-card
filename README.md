@@ -29,8 +29,8 @@ Users should be able to:
 
 ### Links
 
-- Solution URL: [Add solution URL here](https://www.frontendmentor.io/challenges/product-preview-card-component-GO7UmttRfa/hub/product-preview-card-component-j1Joi8W9wx/)
-- Live Site URL: [Add live site URL here](https://dmbauta.github.io/product-preview-card/)
+- Solution URL: https://www.frontendmentor.io/solutions/product-preview-card-component-q6Dn1Jy2kU
+- Live Site URL: https://dmbauta.github.io/product-preview-card/
 
 ## My process
 
